@@ -1,0 +1,92 @@
+.c1 {
+    border: 1px solid;
+    border-radius: 5px;
+    border-color: black;
+    background-color: skyblue;
+    margin: auto;
+}
+
+th {
+    border: 1px solid ;
+    width: 300px;
+    align-items: center;
+    border-radius: 10px;
+}
+
+tr, td {
+    border: 1px solid ;
+    width: 300px;
+    align-items: left;
+    border-radius: 10px;
+}
+
+.c2 {
+    margin: auto;
+    border-spacing: 30px;
+}
+
+.c11 {
+    border: 3px solid rgb(135, 192, 61);
+    height: 50px;
+    width: 80px;
+    border-radius: 5px;
+}
+
+.c12 {
+    border: 3px solid rgb(135, 192, 61);
+    height: 50px;
+    width: 80px;
+    border-radius: 7px;
+}
+
+.c13 {
+    border: 3px solid rgb(135, 192, 61);
+    height: 50px;
+    width: 80px;
+    border-radius: 15px;
+}
+
+.c21 {
+    border: 3px solid rgb(135, 192, 61);
+    height: 20px;
+    width: 80px;
+    border-radius: 9px;
+}
+
+.c22 {
+    border: 3px solid rgb(135, 192, 61);
+    height: 50px;
+    width: 80px;
+    border-radius: 2px;
+}
+
+.c23 {
+    border: 3px solid rgb(135, 192, 61);
+    height: 50px;
+    width: 80px;
+    border-radius: 12px;
+}
+
+.c31 {
+    border: 3px solid rgb(135, 192, 61);
+    height: 50px;
+    width: 80px;
+    border-radius: 100%;
+}
+
+.c32 {
+    border: 3px solid rgb(135, 192, 61);
+    height: 50px;
+    width: 80px;
+    border-radius: 3px;
+}
+
+.c33 {
+    border: 3px solid rgb(135, 192, 61);
+    height: 50px;
+    width: 80px;
+    border-bottom-left-radius: 15px;
+    border-top-right-radius: 15px;
+    border-top-left-radius: 3px;
+    border-bottom-right-radius: 5px;
+}
